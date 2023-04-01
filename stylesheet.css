@@ -1,13 +1,9 @@
 .title {
-    color: #02ccba;
-  }
-
-p1 {
-  color:blueviolet;
-  font-size:70px;
+  color: #02ccba;
+  font-size: 100px;
 }
 
-p2 {
-    color:green;
-    font-size:45px;
-}    
+.h2 {
+  color:blue
+  font-size: 70px;
+}
