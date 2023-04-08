@@ -15,3 +15,9 @@
 div {
   background-image: url(https://github.com/moko0118/github.io/blob/main/top.);
 }
+
+.li {
+  float:right;
+  font-size: 25px;
+  color: purple
+  }
